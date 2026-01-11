@@ -2,6 +2,8 @@
 
 Root raised cosine filter generator. Generates H file for C integration or multidataset CSV for visualisation
 
+![RRC Filter Response](rrc_filter.png) 
+
 ## Build
 
    - run 'make' to build rrcg.
